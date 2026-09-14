@@ -9,7 +9,6 @@ This folder stores individual drawings and paintings that do not need a dedicate
 | **Geometric Rabbit** | Geometric drawing | [geometric-rabbit.jpg](geometric-rabbit.jpg) |
 | **Krishna** | Painting | [Krishna.png](Krishna.png) |
 | **Whale at Sunset** | Painting | [Whale.png](Whale.png) |
-| **Peacock** | Painting | [Peacock.png](Peacock.png) |
 | **Happy Father's Day** | Greeting artwork | [FathersDay.png](FathersDay.png) |
 
 ## Organization rule
