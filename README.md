@@ -33,13 +33,13 @@ Includes:
 
 [Browse the Teachers' Day collection record](artworks/2026/teachers-day/README.md)
 
-### Geometric Art 2026
+### Standalone Drawings 2026
 
-Includes:
+Individual one-off works are stored together under `artworks/2026/drawings/` rather than creating a separate folder for each artwork.
+
+Current work:
 
 - **Geometric Rabbit** — a hand-drawn rabbit built from grey polygonal forms against a vivid stained-glass-like background.
-
-[Browse the Geometric Art collection record](artworks/2026/geometric-art/README.md)
 
 ## Live gallery
 
@@ -67,9 +67,8 @@ arjun-art-gallery/
 │       │   ├── teachers-day-coffee-card.png
 │       │   ├── teachers-day-pencil-card.png
 │       │   └── README.md
-│       └── geometric-art/
-│           ├── geometric-rabbit.jpg
-│           └── README.md
+│       └── drawings/
+│           └── geometric-rabbit.jpg
 ├── docs/
 │   ├── GALLERY_GUIDELINES.md
 │   └── ARTWORK_METADATA.md
