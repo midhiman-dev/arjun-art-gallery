@@ -37,9 +37,12 @@ Includes:
 
 Individual one-off works are stored together under `artworks/2026/drawings/` rather than creating a separate folder for each artwork.
 
-Current work:
+Current works:
 
 - **Geometric Rabbit** — a hand-drawn rabbit built from grey polygonal forms against a vivid stained-glass-like background.
+- **Krishna** — a colourful hand-painted Krishna portrait with expressive details and a peacock-feather motif.
+
+[Browse the standalone drawings catalog](artworks/2026/drawings/README.md)
 
 ## Live gallery
 
@@ -68,7 +71,9 @@ arjun-art-gallery/
 │       │   ├── teachers-day-pencil-card.png
 │       │   └── README.md
 │       └── drawings/
-│           └── geometric-rabbit.jpg
+│           ├── geometric-rabbit.jpg
+│           ├── Krishna.png
+│           └── README.md
 ├── docs/
 │   ├── GALLERY_GUIDELINES.md
 │   └── ARTWORK_METADATA.md
