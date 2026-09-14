@@ -11,22 +11,33 @@ This repository is both:
 
 The goal is to preserve not only finished artwork, but also selected making-process photographs and the story behind each piece.
 
-## Current collection
+## Current collections
 
 ### Ganesh Chaturthi 2026 — From Drawing to Clay
 
-The opening collection now includes:
+Includes:
 
 - **Ganesha in Colour** — hand-coloured Ganesha drawing;
 - **Taking Shape** — clay Ganesha work in progress;
 - **Bappa Is Ready** — finished handmade clay Ganesha with floral decoration; and
 - **The Artist and Bappa** — the creator with the completed artwork.
 
-Browse the collection record here:
+[Browse the Ganesh Chaturthi collection record](artworks/2026/ganesh-chaturthi/README.md)
 
-[Ganesh Chaturthi 2026 — From Drawing to Clay](artworks/2026/ganesh-chaturthi/README.md)
+### Teachers' Day 2026 — A Thank You to Teachers
 
-The gallery homepage is available in [index.html](index.html) and is designed to be published using GitHub Pages.
+Includes:
+
+- **A Warm Thank You** — handmade greeting featuring a cup and coffee-bean motif; and
+- **The Gift of Learning** — handmade greeting featuring a pencil wrapped with a bow.
+
+[Browse the Teachers' Day collection record](artworks/2026/teachers-day/README.md)
+
+## Live gallery
+
+The public gallery is available at:
+
+https://midhiman-dev.github.io/arjun-art-gallery/
 
 ## Repository structure
 
@@ -38,11 +49,15 @@ arjun-art-gallery/
 │       └── styles.css
 ├── artworks/
 │   └── 2026/
-│       └── ganesh-chaturthi/
-│           ├── Artwork.png
-│           ├── wip.png
-│           ├── final.png
-│           ├── artistndart.png
+│       ├── ganesh-chaturthi/
+│       │   ├── Artwork.png
+│       │   ├── wip.png
+│       │   ├── final.png
+│       │   ├── artistndart.png
+│       │   └── README.md
+│       └── teachers-day/
+│           ├── teachers-day-coffee-card.png
+│           ├── teachers-day-pencil-card.png
 │           └── README.md
 ├── docs/
 │   ├── GALLERY_GUIDELINES.md
