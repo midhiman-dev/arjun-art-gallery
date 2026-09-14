@@ -41,6 +41,7 @@ Current works:
 
 - **Geometric Rabbit** — a hand-drawn rabbit built from grey polygonal forms against a vivid stained-glass-like background.
 - **Krishna** — a colourful hand-painted Krishna portrait with expressive details and a peacock-feather motif.
+- **Whale at Sunset** — a watercolour painting of a whale leaping above the sea against a warm sunset sky.
 
 [Browse the standalone drawings catalog](artworks/2026/drawings/README.md)
 
@@ -73,6 +74,7 @@ arjun-art-gallery/
 │       └── drawings/
 │           ├── geometric-rabbit.jpg
 │           ├── Krishna.png
+│           ├── Whale.png
 │           └── README.md
 ├── docs/
 │   ├── GALLERY_GUIDELINES.md
