@@ -33,6 +33,14 @@ Includes:
 
 [Browse the Teachers' Day collection record](artworks/2026/teachers-day/README.md)
 
+### Geometric Art 2026
+
+Includes:
+
+- **Geometric Rabbit** — a hand-drawn rabbit built from grey polygonal forms against a vivid stained-glass-like background.
+
+[Browse the Geometric Art collection record](artworks/2026/geometric-art/README.md)
+
 ## Live gallery
 
 The public gallery is available at:
@@ -55,9 +63,12 @@ arjun-art-gallery/
 │       │   ├── final.png
 │       │   ├── artistndart.png
 │       │   └── README.md
-│       └── teachers-day/
-│           ├── teachers-day-coffee-card.png
-│           ├── teachers-day-pencil-card.png
+│       ├── teachers-day/
+│       │   ├── teachers-day-coffee-card.png
+│       │   ├── teachers-day-pencil-card.png
+│       │   └── README.md
+│       └── geometric-art/
+│           ├── geometric-rabbit.jpg
 │           └── README.md
 ├── docs/
 │   ├── GALLERY_GUIDELINES.md
@@ -82,6 +93,8 @@ It preserves:
 ### Image integrity
 
 Image cleanup may improve crop, alignment, exposure and sharpness or remove distracting background objects, but should not materially change the original artwork or alter faces in documentary photographs.
+
+Some works are intentionally archived exactly as supplied, without cleanup, when preservation of the original photograph is preferred.
 
 ## Privacy
 
