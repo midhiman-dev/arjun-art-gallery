@@ -6,15 +6,12 @@
 
 A small collection of handmade Teachers' Day artwork celebrating gratitude, learning and the role of teachers.
 
-## Works
+## Archived works
 
-1. **A Warm Thank You** — hand-drawn Teachers' Day greeting featuring a cup and coffee-bean motif.
-2. **The Gift of Learning** — hand-drawn Teachers' Day greeting featuring a pencil wrapped with a bow.
-
-## Planned gallery files
-
-- `teachers-day-coffee-card.png`
-- `teachers-day-pencil-card.png`
+| Work | Type | File |
+| --- | --- | --- |
+| **A Warm Thank You** | Handmade Teachers' Day greeting with cup and coffee-bean motif | [teachers-day-coffee-card.png](teachers-day-coffee-card.png) |
+| **The Gift of Learning** | Handmade Teachers' Day greeting with pencil and bow | [teachers-day-pencil-card.png](teachers-day-pencil-card.png) |
 
 ## Archive principle
 
